@@ -1,5 +1,15 @@
 # Links from Kotlin/Everywhere talk 
 
+## KMP apps:
+
+DroidCon app: https://github.com/touchlab/DroidconKotlin
+
+KotlinConf app: https://github.com/JetBrains/kotlinconf-app
+
+## Tutorials
+
+https://play.kotlinlang.org/hands-on/overview
+
 ## KMP:
 gradle buildscrips: https://kotlinlang.org/docs/reference/building-mpp-with-gradle.html
 
